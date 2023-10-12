@@ -1,2 +1,2 @@
 # hacktoberfest
-phat trien web
+event
